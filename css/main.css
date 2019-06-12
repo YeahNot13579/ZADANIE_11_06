@@ -1,0 +1,19 @@
+img{
+    width: 50px;
+}
+span{
+    color: white;
+}
+.divclass:hover{
+    background: gray;
+}
+.MainDiv{ 
+   width: 200px;
+   margin: auto;
+   background: darkgray;
+}
+.divclass{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
